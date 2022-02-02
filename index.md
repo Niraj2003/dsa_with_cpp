@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-### Go to [content](./DataStructures_with_C++/notebook.md)
+<!-- ### Go to [content](./DataStructures_with_C++/notebook.md) -->
 
 You can use the [editor on GitHub](https://github.com/exemplar-codes/github_pages_try/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
