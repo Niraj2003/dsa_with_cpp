@@ -1,0 +1,20 @@
+---
+id: LAcUfBGAGvJ4HtZLQfalW
+title: 4 _selection_sort
+desc: ''
+updated: 1644767656943
+created: 1644767656943
+stub: false
+isDir: false
+---
+# 4. Selection Sort
+Created Sunday 05 January 2020
+
+
+* Find the optimum, place it at the optimum index of the sorted part.
+* Does this for each. Takes size_unsorted for placing an element to it's sorted position.
+* Time: n + n-1 + ... + 1 = O(n^2^). Worst case.
+* Best case: list is already sorted. We still do  size_unsorted, to find the smallest. **Still** O(n^2^).
+
+**Selection sort is the ***slower ***than insertion sort.**
+

@@ -1,0 +1,19 @@
+---
+id: ZjLmi6PUpWtun8QQ8FU7Q
+title: 5 _reverse_ll_using_2_pointers
+desc: ''
+updated: 1644767656953
+created: 1644767656953
+stub: false
+isDir: false
+---
+# 5. Reverse LL using 2 pointers
+Created Saturday 18 January 2020
+
+
+* Method in no.4 can be made o(n) by storing the last pointer, rather than finding it every time.
+* We create a public class which has two pointers, head and last. Which store head of the reversed linked lista and the last node's address.
+* We return this class called 'Pair' using a helper function which takes in only the value head.
+* **As shown in the video, as this is a skewed tree recursion, we can return the value without making a new value.**
+
+

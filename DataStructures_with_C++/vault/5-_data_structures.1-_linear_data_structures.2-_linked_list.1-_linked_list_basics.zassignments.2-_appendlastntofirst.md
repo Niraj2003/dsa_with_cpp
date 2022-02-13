@@ -1,0 +1,21 @@
+---
+id: pR3nbva5skoR0bGH02her
+title: 2 _appendlastntofirst
+desc: ''
+updated: 1644767656956
+created: 1644767656956
+stub: false
+isDir: false
+---
+# 2. AppendLastNToFirst
+Created Friday 17 January 2020
+
+
+* for empty or uni list, return.
+* Traverse the array to find the length;
+* Stop at the last node, connect it to the first node.
+* Traverse  to index l-n-1
+* change head value
+* make l-n-1 ->next = NULL
+
+

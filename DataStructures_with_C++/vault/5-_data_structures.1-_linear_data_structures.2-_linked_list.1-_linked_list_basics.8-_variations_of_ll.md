@@ -1,0 +1,19 @@
+---
+id: YoV4TepKXX498XDnvRhuf
+title: 8 _variations_of_ll
+desc: ''
+updated: 1644767656953
+created: 1644767656953
+stub: false
+isDir: false
+---
+# 8. Variations of LL
+Created Saturday 18 January 2020
+
+
+1. Singly Linked list.
+2. Doubly linked list
+3. Circular singly linked list. saved 8 bytes. Any node can be used to travel the whole list.
+4. Circular doubly linked list. Increases size by length*sizeof(node*). Any node can be used to travel the whole list.
+
+

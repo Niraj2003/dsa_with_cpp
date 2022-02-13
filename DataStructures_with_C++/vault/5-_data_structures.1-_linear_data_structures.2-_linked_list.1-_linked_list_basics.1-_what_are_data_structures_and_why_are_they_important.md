@@ -1,0 +1,29 @@
+---
+id: SQlVUYAa1ivvFzQj3yNNr
+title: 1 _what_are_data_structures_and_why_are_they_important
+desc: ''
+updated: 1644767656953
+created: 1644767656953
+stub: false
+isDir: false
+---
+# 1. What are data structures and why are they important
+Created Tuesday 14 January 2020
+
+
+* Data structures are just **ways **of storing and organizing data.
+
+
+Solving a problem: When we are given some input and we work on that according to the requirement, there are many ways to store the input and to work the output. These are Data Structures and Algorithms respectively. 
+
+* How we store our data is very important. Hence, Data structures are very important.
+* Different situations require using different data structures depending on the cost of operations/requirement/availability.
+* Choice of data structure is the most important thing.
+
+e.g if user gives us some inputs, and they wants to know what they gave before. Here we will use stack. Any other data structure will not be as good as a stack here.
+
+
+* **All ADTs use LL or array as the physical data structure.**
+
+Data structure = ADT + LL/Array
+

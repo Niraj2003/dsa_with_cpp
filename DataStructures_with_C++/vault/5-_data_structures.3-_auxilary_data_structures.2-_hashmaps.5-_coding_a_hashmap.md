@@ -1,0 +1,24 @@
+---
+id: c4lJ52AtBuaMOuBKnjRQD
+title: 5 _coding_a_hashmap
+desc: ''
+updated: 1644767656951
+created: 1644767656951
+stub: false
+isDir: false
+---
+# 5. Coding a hashMap
+Created Wednesday 19 February 2020
+
+
+* We will make a hashMap class, with string as key, as we don't have a hash function for every data type. The value will be a template. hashCode depends only on the key.
+* As we are using seperate chaining. So our bucket array is an array of pointers to an LL of the value nodes.
+* We will also store size, bucketCapacity;
+
+Functions:
+
+1. void insert(string key, V value);
+2. V getValue(string key);
+3. V remove(string key);
+
+

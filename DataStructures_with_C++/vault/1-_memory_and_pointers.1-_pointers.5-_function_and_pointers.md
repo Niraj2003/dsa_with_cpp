@@ -1,0 +1,22 @@
+---
+id: yGByMWu7geNb8ahlgfv3n
+title: 5 _function_and_pointers
+desc: ''
+updated: 1644767656942
+created: 1644767656942
+stub: false
+isDir: false
+---
+# 5. Function and Pointers
+Created Monday 23 December 2019
+
+
+* Re-emphasizing the scope of pointers. 
+* (*p)++ is significant. 
+* int x[] as a formal parameter is the same as int*. No difference at all. Hence we need to pass the length. 
+* Passing parts of the function as an array, is a useful trick. 
+
+f(arr+2, 5) is the same as making a pointer on the 3rd then passing it. 
+
+
+

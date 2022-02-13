@@ -1,0 +1,22 @@
+---
+id: eBb4A877KXAX3GBdYWUgA
+title: 2 _height_of_a_tree_exercise
+desc: ''
+updated: 1644767656954
+created: 1644767656954
+stub: false
+isDir: false
+---
+# 2. Height of a tree Exercise
+Created Monday 27 January 2020
+
+
+* Concept: Height is just the maximum number of levels in the tree.
+
+
+
+* **We can say a single node is height 0 and also height 1. Definition is ***flexible***. There's no convention here.**
+* If we want to avoid negative numbers, we will be saying a **single node** is height **1**. As we will return 0 for NULL.
+
+
+

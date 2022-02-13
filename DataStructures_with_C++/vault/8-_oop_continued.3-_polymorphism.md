@@ -1,0 +1,24 @@
+---
+id: zr7d6VbN5GX6boalAADma
+title: 3 _polymorphism
+desc: ''
+updated: 1644767656941
+created: 1644767656941
+stub: false
+isDir: false
+---
+# 3. Polymorphism
+Created Monday 27 April 2020
+
+
+* Literally means many forms.
+* We the concept of polymorphism to make our code dynamic(i.e context dependent behavior), this decreases the switch cases or huge if else ladders.
+
+
+It is of two types:
+
+1. Compile Time: The *form* is decided at compile time.
+2. Run Time: We decide the *form* at run-time.
+
+**form **here refers to the chosen behavior.
+
